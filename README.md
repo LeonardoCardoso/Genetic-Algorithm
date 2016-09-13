@@ -18,8 +18,6 @@ General Steps:
 </li>
 </ul>
 
-For more details, visit http://lab.leocardz.com/genetic-algorithm/
-
 ## Contact
 Contact me either by Twitter [@leocardz](https://twitter.com/leocardz) or emailing me to [contact@leocardz.com](mailto:contact@leocardz.com).
 
